@@ -334,6 +334,8 @@ aws cloudfront create-invalidation \
 ## CloudFront Distribution
 
 ![CloudFront Distribution](screenshots/cloudfront-distribution.png)
+<img width="1720" height="830" alt="image" src="https://github.com/user-attachments/assets/15bea87b-040c-40d5-9ff0-1934f5d63e42" />
+
 
 ---
 
