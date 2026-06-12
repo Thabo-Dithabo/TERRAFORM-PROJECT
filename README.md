@@ -340,6 +340,7 @@ aws cloudfront create-invalidation \
 ## Successful Website Deployment
 
 ![Live Website](screenshots/website-live.png)
+<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/75fd2638-3a75-420c-a83a-c48ee936a617" />
 
 ---
 
