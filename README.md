@@ -310,18 +310,24 @@ aws cloudfront create-invalidation \
 ## Terraform Apply Successful
 
 ![Terraform Apply](screenshots/terraform-apply-success.png)
+<img width="1634" height="682" alt="image" src="https://github.com/user-attachments/assets/a65d385e-b3b3-4c84-90f6-d3dbd32a594a" />
+
 
 ---
 
 ## S3 Bucket Objects
 
 ![S3 Bucket](screenshots/s3-bucket-objects.png)
+<img width="1771" height="729" alt="image" src="https://github.com/user-attachments/assets/7a0ee3d5-1c36-47f4-90db-323781428bb8" />
+
 
 ---
 
 ## ACM Certificate Issued
 
 ![ACM Certificate](screenshots/acm-certificate-issued.png)
+<img width="1873" height="821" alt="image" src="https://github.com/user-attachments/assets/bd77b416-5f85-436e-ab37-d252ed5035de" />
+
 
 ---
 
@@ -334,6 +340,7 @@ aws cloudfront create-invalidation \
 ## Route53 Records
 
 ![Route53 Records](screenshots/route53-records.png)
+<img width="1702" height="760" alt="image" src="https://github.com/user-attachments/assets/58a9fb12-a5a7-44a7-8dda-7825137d29f6" />
 
 ---
 
